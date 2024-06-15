@@ -39,11 +39,7 @@ Smart Assistant is a Flutter application for Android that integrates the ChatGPT
     ```bash
     flutter run
     ```
-
-## Images
-
-You can view the screenshots of the application in this [Google Drive folder](https://drive.google.com/drive/folders/your-folder-id).
-
+    
 ### Example Screenshots
 ![Home Screen](https://github.com/OKPooja/Smart_Assistant/assets/104082200/b25f9b3b-5a64-4259-be9b-0718bd52a999)
 ![Response from Api](https://github.com/OKPooja/Smart_Assistant/assets/104082200/a29ff3cd-7d95-48e1-a616-84279ded2d32)
